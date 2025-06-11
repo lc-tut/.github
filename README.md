@@ -1,2 +1,3 @@
-# .github
-LinuxClub Profile
+
+# [LinuxClub - 東京工科大学 公認サークル](https://www.linux.it.teu.ac.jp)
+ソフトウェア開発/ネットワーク/電子工作/オンプレサーバ/セキュリティなど、ITを中心に創作活動を日々行っています。
