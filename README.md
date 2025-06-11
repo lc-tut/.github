@@ -1,3 +1,6 @@
+# このレポジトリについて
+このレポジトリは、GithubにおけるLinuxClub Organization プロフィールの READMEを管理するものです。
+profile直下のREADME.mdを編集することでprofileを更新できます。
 
-# [LinuxClub - 東京工科大学 公認サークル](https://www.linux.it.teu.ac.jp)
-ソフトウェア開発/ネットワーク/電子工作/オンプレサーバ/セキュリティなど、ITを中心に創作活動を日々行っています。
+### ちゃんとPRでこうしんすること！！！
+それじゃあキラキラしたprofile目指して頑張りましょー
